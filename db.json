@@ -1,0 +1,26 @@
+{
+  
+      "hotels": [
+          {
+            "id": 1,
+            "name": "Hotel Sunshine",
+            "location": "Paris",
+            "price": 150
+          },
+          {
+            "id": 2,
+            "name": "Ocean View",
+            "location": "Maldives",
+            "price": 300
+          },
+          {
+            "id": 3,
+            "name": "Mountain Retreat",
+            "location": "Swiss Alps",
+            "price": 200
+          }
+        ]
+      
+    
+  }
+  
